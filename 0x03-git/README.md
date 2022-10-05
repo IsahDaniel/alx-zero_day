@@ -1,1 +1,2 @@
-This is a non empty Readme
+This is a non empty Readm
+Learning git finally
